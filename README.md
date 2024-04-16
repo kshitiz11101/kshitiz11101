@@ -1,7 +1,7 @@
-![MasterHead](https://media2.giphy.com/media/5GS13A3jXN9xSQF6HL/giphy.gif?cid=ecf05e47umd3of1d0eobul0baiow8pql6ro4i8x6mtcismec&ep=v1_gifs_related&rid=giphy.gif&ct=g](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif))
+![loop](https://github.com/kshitiz11101/kshitiz11101/assets/110187324/7dcf3766-0a8e-4375-a14d-90783fa4ca2d)
 <h1 align="center">Hi 👋, I'm Kshitiz Sharma</h1>
 <h3 align="center">B.Tech Computer Science(3rd yr) @MSIT</h3>
-<img align="right" alt="Coding width="200"                                 src="https://in.images.search.yahoo.com/images/view;_ylt=AwrKBPvII1BjgSQxZd69HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzMyNDljMWZiNWJlMmFkNWI1YjdhZDFkNmY4MzYyMjI1BGdwb3MDMjkEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danimated%2Bcoding%2Bimage%26type%3DE211IN826G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D29&w=800&h=600&imgurl=www.iihglobal.com%2Fwp-content%2Fuploads%2F2019%2F02%2Fdcsad.gif&rurl=https%3A%2F%2Fwww.iihglobal.com%2Fblog%2Fpython-developer-should-know%2F&size=213.0KB&p=animated+coding+image&oid=3249c1fb5be2ad5b5b7ad1d6f8362225&fr2=piv-web&fr=mcafee&tt=Seven+Things+You+Should+Know+About+Python+Developer&b=0&ni=21&no=29&ts=&tab=organic&sigr=BXvml5K.nfdl&sigb=eOLBF7mbMDfR&sigi=fQ0FBDZBTt3p&sigt=PHt3Z9uGdrx.&.crumb=Tdw/h2H6IUS&fr=mcafee&fr2=piv-web&type=E211IN826G0"
+<!-- <img align="right" alt="Coding width="200"                                 src="https://in.images.search.yahoo.com/images/view;_ylt=AwrKBPvII1BjgSQxZd69HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzMyNDljMWZiNWJlMmFkNWI1YjdhZDFkNmY4MzYyMjI1BGdwb3MDMjkEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danimated%2Bcoding%2Bimage%26type%3DE211IN826G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D29&w=800&h=600&imgurl=www.iihglobal.com%2Fwp-content%2Fuploads%2F2019%2F02%2Fdcsad.gif&rurl=https%3A%2F%2Fwww.iihglobal.com%2Fblog%2Fpython-developer-should-know%2F&size=213.0KB&p=animated+coding+image&oid=3249c1fb5be2ad5b5b7ad1d6f8362225&fr2=piv-web&fr=mcafee&tt=Seven+Things+You+Should+Know+About+Python+Developer&b=0&ni=21&no=29&ts=&tab=organic&sigr=BXvml5K.nfdl&sigb=eOLBF7mbMDfR&sigi=fQ0FBDZBTt3p&sigt=PHt3Z9uGdrx.&.crumb=Tdw/h2H6IUS&fr=mcafee&fr2=piv-web&type=E211IN826G0" -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitiz11101&label=Profile%20views&color=0e75b6&style=flat" alt="kshitiz11101" /> </p>
 
@@ -30,6 +30,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitiz11101&show_icons=true&locale=en&layout=compact" alt="kshitiz11101" /></p>
+<br/>
 
 [![An image of @kshitiz11101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kshitiz11101)](https://holopin.io/@kshitiz11101)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitiz11101&show_icons=true&locale=en" alt="kshitiz11101" /></p>
