@@ -31,6 +31,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitiz11101&show_icons=true&locale=en&layout=compact" alt="kshitiz11101" /></p>
 <br/>
+<!-- ## 🏆 GitHub Trophies -->
+<p>
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=kshitiz11101&theme=algolia&no-frame=false&no-bg=false&margin-w=4"/>
+</p>
+<!-- (https://github-profile-trophy.vercel.app/?username=kshitiz11101&theme=algolia&no-frame=false&no-bg=false&margin-w=4) -->
 
 [![An image of @kshitiz11101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kshitiz11101)](https://holopin.io/@kshitiz11101)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitiz11101&show_icons=true&locale=en" alt="kshitiz11101" /></p>
