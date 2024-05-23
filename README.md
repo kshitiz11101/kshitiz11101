@@ -40,8 +40,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitiz11101&show_icons=true&locale=en&layout=compact" alt="kshitiz11101" /></p>
 <br/>
-<!-- ## 🏆 GitHub Trophies -->
-<p>
+<br/>
+<p  align="left">
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=kshitiz11101&theme=algolia&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
 <!-- (https://github-profile-trophy.vercel.app/?username=kshitiz11101&theme=algolia&no-frame=false&no-bg=false&margin-w=4) -->
