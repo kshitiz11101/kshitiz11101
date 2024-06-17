@@ -1,13 +1,14 @@
 ![loop](https://github.com/kshitiz11101/kshitiz11101/assets/110187324/7dcf3766-0a8e-4375-a14d-90783fa4ca2d)
 <h1 align="center">Hi 👋, I'm Kshitiz Sharma</h1>
 <h3 align="center">B.Tech Computer Science(3rd yr) @MSIT</h3>
+<h4 align="center">MERN Stack Developer</h4>
 <!-- <img align="right" alt="Coding width="200"                                 src="https://in.images.search.yahoo.com/images/view;_ylt=AwrKBPvII1BjgSQxZd69HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzMyNDljMWZiNWJlMmFkNWI1YjdhZDFkNmY4MzYyMjI1BGdwb3MDMjkEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danimated%2Bcoding%2Bimage%26type%3DE211IN826G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D29&w=800&h=600&imgurl=www.iihglobal.com%2Fwp-content%2Fuploads%2F2019%2F02%2Fdcsad.gif&rurl=https%3A%2F%2Fwww.iihglobal.com%2Fblog%2Fpython-developer-should-know%2F&size=213.0KB&p=animated+coding+image&oid=3249c1fb5be2ad5b5b7ad1d6f8362225&fr2=piv-web&fr=mcafee&tt=Seven+Things+You+Should+Know+About+Python+Developer&b=0&ni=21&no=29&ts=&tab=organic&sigr=BXvml5K.nfdl&sigb=eOLBF7mbMDfR&sigi=fQ0FBDZBTt3p&sigt=PHt3Z9uGdrx.&.crumb=Tdw/h2H6IUS&fr=mcafee&fr2=piv-web&type=E211IN826G0" -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitiz11101&label=Profile%20views&color=0e75b6&style=flat" alt="kshitiz11101" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kshitiz24451721" target="blank"><img src="https://img.shields.io/twitter/follow/kshitiz24451721?logo=twitter&style=for-the-badge" alt="kshitiz24451721" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **NextJs and TypeScript**
 
 - 📫 How to reach me **kshitiz01sharma@gmail.com**
 
