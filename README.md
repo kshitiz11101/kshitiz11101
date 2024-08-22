@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kshitiz24451721" target="blank"><img src="https://img.shields.io/twitter/follow/kshitiz24451721?logo=twitter&style=for-the-badge" alt="kshitiz24451721" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs and TypeScript**
+- 🌱 I’m currently learning **Advance Java**
 
 - 📫 How to reach me **kshitiz01sharma@gmail.com**
 
