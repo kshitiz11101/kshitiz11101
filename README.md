@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kshitiz01sharma@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **Flags are neither red nor green, they're always boolean**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
